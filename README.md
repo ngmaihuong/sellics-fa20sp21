@@ -1,1 +1,1 @@
-# sellics-fa20sp21
+# Automation Scripts for Sellics
